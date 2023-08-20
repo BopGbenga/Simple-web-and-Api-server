@@ -1,0 +1,5 @@
+[
+  { "Name": "Louis vulton", "price": "$300", "size": "Extra-Large", "id": 1 },
+  { "Name": "GUCCI", "price": "$400", "size": "s", "id": 2 },
+  { "Name": "joggers", "price": "$300", "size": "medium", "id": 3 }
+]
